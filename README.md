@@ -70,6 +70,5 @@ I also enjoy working closely with clients, understanding business requirements, 
 ### 🤝 Let's Connect
 
 - GitHub: [@PrajwalZeeve](https://github.com/PrajwalZeeve)
-- LinkedIn: Add your LinkedIn profile
 
 **Building, learning, and shipping 🚀**
